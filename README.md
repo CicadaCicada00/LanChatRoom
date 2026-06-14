@@ -1,22 +1,22 @@
-# 💬 Terminal Chat Server (C++ / Winsock)
+# Terminal Chat Server (C++ / Winsock)
 
 A lightweight multi-client terminal chat application built in **C++** using the **Windows Winsock API**.
 
 ---
 
-## ✨ Features
+## Features
 
-* 👥 Multiple clients can connect simultaneously
-* 🏷️ Username-based chat system
-* ⚡ Real-time message broadcasting
-* 🚪 Join and leave notifications
-* 🔨 Server-side user kicking
-* 🔒 Thread-safe client management using mutexes
-* 🌐 Built with raw Winsock API (no external networking libraries)
+*  Multiple clients can connect simultaneously
+*  Username-based chat system
+*  Real-time message broadcasting
+*  Join and leave notifications
+*  Server-side user kicking
+*  Thread-safe client management using mutexes
+*  Built with raw Winsock API (no external networking libraries)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 LanChatRoom/
@@ -25,7 +25,7 @@ LanChatRoom/
 ```
 
 ---
-## 📋 Requirements
+##  Requirements
 
 * Windows 7 or newer
 * C++17 or newer
@@ -55,7 +55,7 @@ Create a **C++ Console Application** and build normally.
 
 ---
 
-## 🚀 Running the Application
+## Running the Application
 
 ### 1. Start the Server
 
@@ -79,7 +79,7 @@ client.exe
 
 ---
 
-## 💬 Example Session
+## Example Session
 
 ```text
 [Server]
@@ -94,7 +94,7 @@ User1 left the chat
 
 ---
 
-# 🌐 Creating Your Own LAN Chat Server
+# Creating Your Own LAN Chat Server
 
 By default the project uses:
 
@@ -195,7 +195,7 @@ through the firewall when prompted.
 
 ---
 
-## 🏠 LAN Example
+## LAN Example
 
 ### Server
 
@@ -221,7 +221,7 @@ and can communicate through the server.
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 This project helped me understand:
 
