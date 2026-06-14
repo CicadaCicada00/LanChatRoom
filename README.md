@@ -25,31 +25,6 @@ LanChatRoom/
 ```
 
 ---
-
-## 🖥️ Server Responsibilities
-
-The server is responsible for:
-
-* Accepting incoming connections
-* Managing connected clients
-* Broadcasting messages
-* Tracking usernames
-* Handling disconnects
-* Processing admin commands
-
----
-
-## 💻 Client Responsibilities
-
-The client is responsible for:
-
-* Connecting to the server
-* Sending messages
-* Receiving broadcasts
-* Displaying chat messages
-
----
-
 ## 📋 Requirements
 
 * Windows 7 or newer
@@ -257,17 +232,6 @@ This project helped me understand:
 * Multithreading
 * Thread synchronization with mutexes
 * Real-time communication systems
-
----
-
-## 🔮 Future Improvements
-
-* 📁 File transfer support
-* 🔐 User authentication
-* 🌍 Internet-wide connectivity
-* 📨 Private messaging
-* 📝 Chat history persistence
-* 🔑 End-to-end encryption
 
 ---
 
